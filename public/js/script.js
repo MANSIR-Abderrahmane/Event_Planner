@@ -1,4 +1,5 @@
 // script.js - Main JavaScript file for the application
+// TODO : Add 
 
 document.addEventListener('DOMContentLoaded', function() {
     // Form validation for create_event.php
